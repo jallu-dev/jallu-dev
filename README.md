@@ -17,10 +17,6 @@
   </a>
 </div>
 
-<div align="center" style="margin: 4rem 0;">
-  <img src="https://github.com/user-attachments/assets/74038dd4-c83b-4c36-a9c7-8c2a4c5e3c9f" width="100%" alt="Glassmorphism Banner" />
-</div>
-
 <div align="center">
   <h3 style="background: linear-gradient(135deg, rgba(139, 69, 19, 0.15) 0%, rgba(30, 111, 235, 0.15) 50%, rgba(35, 134, 54, 0.15) 100%); backdrop-filter: blur(16px); border: 1px solid rgba(139, 148, 158, 0.2); border-radius: 16px; padding: 2rem; margin: 2rem auto; max-width: 800px; color: #F0F6FC; text-shadow: 0 0 20px rgba(88, 166, 255, 0.5);">
     🚀 Final-year IT student crafting digital solutions with modern web technologies
@@ -245,9 +241,6 @@
 <div align="center" style="margin: 3rem 0;">
   <div style="width: 80%; height: 2px; background: linear-gradient(90deg, transparent 0%, rgba(88, 166, 255, 0.6) 20%, rgba(35, 134, 54, 0.6) 50%, rgba(248, 81, 73, 0.6) 80%, transparent 100%); margin: 0 auto;"></div>
 </div>
-
-## 📬 Let's Connect
-
 
 <div align="center">
   <i>Building tomorrow's solutions, one commit at a time.</i>
