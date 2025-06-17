@@ -1,13 +1,18 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Zahran+Liyasdeen+(jallu-dev);Software+Engineering+Internship+Seeker"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Zahran+Liyasdeen+(jallu-dev);Software+Engineering+Internship+Seeker"/>
 </div>
 
-<div align="center">
-  <strong>✨ Let's build something meaningful together ✨</strong><br/>
-  <a href="https://jallu.netlify.app"><img src="https://img.shields.io/badge/Visit%20My-Portfolio-1f1f1f?style=flat-square&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:zahranliyasdeen@gmail.com"><img src="https://img.shields.io/badge/Email-Me-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/zahran-liyasdeen/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=jallu-dev&label=Profile+Views&style=flat-square&color=blue"/>
+<div align="center" style="margin-top: 1.2rem;">
+  <a href="https://jallu.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Site-black?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:zahranliyasdeen@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/zahran-liyasdeen/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=jallu-dev&style=for-the-badge&label=Views&color=blue"/>
 </div>
 
 ---
@@ -31,39 +36,24 @@
 
 ## 🌍 Featured Projects
 
-<div align="center">
+### 📘 System for Exam Entry (SEE)  
+**Type:** Group (initial) + Individual (final) · [Live Site](https://see.vau.ac.lk) · [GitHub](https://github.com/jallu-dev/exam_entry_v_2.0)  
+A multi-role academic platform handling student applications, approvals, and printable reports.
+> **Stack:** Next.js, Node.js, MySQL, JWT, PDF Generation
 
-  <img src="https://user-images.githubusercontent.com/placeholder/card-glass.png" width="100%" alt="Glass Card Placeholder"/>
+---
 
-  <div align="left">
-    <h3>System for Exam Entry (SEE) — <a href="https://see.vau.ac.lk">Live</a> | <a href="https://github.com/jallu-dev/exam_entry_v_2.0">Code</a></h3>
-    <p><em>Group + Individual Project</em></p>
-    <ul>
-      <li>Multi-role academic workflow system</li>
-      <li>Built with Next.js, Node.js, MySQL, PDF tools</li>
-    </ul>
-  </div>
-  <br/>
+### 💎 Finest Gem Lab Website (FGL)  
+**Type:** Individual · [Live Site](https://fgl-beta.vercel.app) · [GitHub](https://github.com/jallu-dev/FGL)  
+Admin dashboard + client verification system for gemological certificates and gallery.
+> **Stack:** Next.js, PostgreSQL, AWS S3, Tailwind CSS
 
-  <div align="left">
-    <h3>Finest Gem Lab Website (FGL) — <a href="https://fgl-beta.vercel.app">Live</a> | <a href="https://github.com/jallu-dev/FGL">Code</a></h3>
-    <p><em>Individual Project</em></p>
-    <ul>
-      <li>Client-side certificate verification + admin CMS</li>
-      <li>Stack: Next.js, PostgreSQL, AWS S3</li>
-    </ul>
-  </div>
-  <br/>
+---
 
-  <div align="left">
-    <h3>Leo Club Website — <a href="https://uovleos.com">Live</a> | <a href="https://github.com/jallu-dev/uovleo">Code</a></h3>
-    <p><em>Individual Project</em></p>
-    <ul>
-      <li>Public-facing timeline & activity showcase</li>
-      <li>Built with React (Vite), Tailwind CSS</li>
-    </ul>
-  </div>
-</div>
+### 🦁 Leo Club Website — UoV  
+**Type:** Individual · [Live Site](https://uovleos.com) · [GitHub](https://github.com/jallu-dev/uovleo)  
+Website showcasing club activities and interactive timeline events for the Leo Club.
+> **Stack:** React.js (Vite), Tailwind CSS
 
 ---
 
