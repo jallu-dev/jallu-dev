@@ -34,7 +34,7 @@
 
 <div style="background: linear-gradient(135deg, rgba(33, 38, 45, 0.7) 0%, rgba(13, 17, 23, 0.8) 100%); backdrop-filter: blur(20px); border: 1px solid rgba(139, 148, 158, 0.2); border-radius: 20px; padding: 2.5rem; margin: 2rem 0; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3), inset 0 1px 0 rgba(255, 255, 255, 0.1);">
 
-- 🎓 **Completing BSc IT** at University of Jaffna (Vavuniya Campus)
+- 🎓 **Completing BSc IT** at University of Jaffna
 - 🔨 **Building production-ready applications** for academic and commercial use  
 - 🌱 **Exploring advanced backend architectures** and cloud deployment
 - 🎯 **Open to software engineering internship opportunities**
