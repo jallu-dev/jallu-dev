@@ -4,6 +4,30 @@
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=36&duration=3000&pause=1200&center=true&vCenter=true&width=800&height=100&lines=Zahran+Liyasdeen;Full-Stack+Developer;Software+Engineering+Intern&color=0969DA&background=FFFFFF" alt="Typing SVG" />
   </picture>
 </div>
+<div align="center" style="margin-top: 3rem;">
+  <div style="
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border-radius: 20px;
+    padding: 2rem;
+    width: 100%;
+    max-width: 420px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    text-align: center;
+  ">
+    <img src="https://avatars.githubusercontent.com/u/72025176?v=4" alt="Zahran Liyasdeen Avatar" width="96" height="96" style="border-radius: 50%; margin-bottom: 1rem; border: 2px solid rgba(255,255,255,0.2);">
+    <h3 style="margin: 0.5rem 0; color: #0D1117;">Zahran Liyasdeen</h3>
+    <a href="mailto:zahranliyasdeen@gmail.com">
+      <img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_Follow_Me-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Follow" />
+    </a>
+    <p style="margin-top: 1rem; color: #57606a; font-size: 0.9rem;">
+      Building scalable digital tools. Passionate about full-stack development and solving real-world problems through code.
+    </p>
+  </div>
+</div>
+
 
 <div align="center" style="margin: 2rem 0;">
   <a href="https://jallu.netlify.app">
