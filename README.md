@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Zahran+Liyasdeen+(jallu-dev);Software+Engineering+Internship+Seeker"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Zahran+Liyasdeen+(jallu-dev);Software+Engineering+Internship+Seeker"/>
 </div>
 
 <p align="center">
@@ -26,8 +26,7 @@
 
 ---
 
-## 🛠 Tech Toolbox (Glassmorphism Card Style)
-
+## 🛠 Tech Toolbox
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,java,spring,mysql,mongodb,postgres,firebase,tailwind,git,vite"/>
 </div>
