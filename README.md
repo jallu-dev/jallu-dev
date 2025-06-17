@@ -16,6 +16,7 @@
     <img src="https://img.shields.io/badge/💼_LinkedIn-161B22?style=for-the-badge&logoColor=white&labelColor=21262D&color=8B949E" alt="LinkedIn"/>
   </a>
 </div>
+  [![Profile Views](https://komarev.com/ghpvc/?username=jallu-dev&label=Profile%20Views&color=2d9bf7&style=for-the-badge)](https://github.com/jallu-dev)
 
 <div align="center">
   <h3 style="background: linear-gradient(135deg, rgba(139, 69, 19, 0.15) 0%, rgba(30, 111, 235, 0.15) 50%, rgba(35, 134, 54, 0.15) 100%); backdrop-filter: blur(16px); border: 1px solid rgba(139, 148, 158, 0.2); border-radius: 16px; padding: 2rem; margin: 2rem auto; max-width: 800px; color: #F0F6FC; text-shadow: 0 0 20px rgba(88, 166, 255, 0.5);">
