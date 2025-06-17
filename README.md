@@ -1,8 +1,9 @@
 <div align="center">
   <picture>
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=36&duration=3000&pause=1200&center=true&vCenter=true&width=800&height=100&lines=ZAHRAN+LIYASDEEN;FULL_STACK+DEVELOPER;SOFTWARE+ENGINEERING+INTERN&color=0969DA&background=FFFFFF" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=36&duration=3000&pause=1200&center=true&vCenter=true&width=800&height=100&lines=ZAHRAN+LIYASDEEN;FULL_STACK+DEVELOPER;SOFTWARE+ENGINEERING+INTERN&color=FFFFFF&background=00000000" alt="Typing SVG" />
   </picture>
 </div>
+
 
 <div align="center" style="margin: 2rem 0;">
   <a href="https://jallu.netlify.app">
