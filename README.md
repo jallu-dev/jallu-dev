@@ -18,7 +18,7 @@
     text-align: center;
     overflow: hidden;
   ">
-    <img src="https://avatars.githubusercontent.com/u/72025176?v=4" alt="Zahran Liyasdeen Avatar" width="96" height="96" style="border-radius: 50%; margin-bottom: 1rem; border: 2px solid rgba(255,255,255,0.2);">
+    <img src="https://avatars.githubusercontent.com/u/72025176?v=4" alt="Zahran Liyasdeen Avatar" width="96" height="96" style="border-radius: 50%; margin-bottom: 1rem; border: 2px solid rgba(255,255,255,0.2);overflow: hidden;">
     <h3 style="margin: 0.5rem 0; color: #0D1117;">Zahran Liyasdeen</h3>
     <a href="mailto:zahranliyasdeen@gmail.com">
       <img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_Follow_Me-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Follow" />
