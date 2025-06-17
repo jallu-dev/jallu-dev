@@ -2,55 +2,68 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Zahran+Liyasdeen+(jallu-dev);Software+Engineering+Internship+Seeker"/>
 </div>
 
-<p align="center">
-  <a href="https://jallu.netlify.app" target="_blank">🌐 Portfolio</a> • 
-  <a href="https://www.linkedin.com/in/zahran-liyasdeen" target="_blank">💼 LinkedIn</a> • 
-  <a href="mailto:zahranliyasdeen@gmail.com">✉️ Email</a> • 
-  <img src="https://komarev.com/ghpvc/?username=jallu-dev&label=Profile%20Views&color=blue&style=flat"/>
-</p>
+<div align="center">
+  <strong>✨ Let's build something meaningful together ✨</strong><br/>
+  <a href="https://jallu.netlify.app"><img src="https://img.shields.io/badge/Visit%20My-Portfolio-1f1f1f?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:zahranliyasdeen@gmail.com"><img src="https://img.shields.io/badge/Email-Me-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/zahran-liyasdeen/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=jallu-dev&label=Profile+Views&style=flat-square&color=blue"/>
+</div>
 
 ---
 
-## 🧭 What I’m Doing Now
+## 🤖 What I'm Doing Now
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Degree-Final%20Year%20IT-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/University-UoJ(Vavuniya)-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Internship-Available-green?style=for-the-badge"/>
-</div>
-
-- 🛠 Building [Exam Entry System](https://see.vau.ac.lk) — full-stack academic workflow app
-- 💎 Maintaining [Gem Lab CMS](https://fgl-beta.vercel.app)
-- 🦁 Created [Leo Club Website](https://uovleos.com)
-- 🤝 Open to internships (backend/full-stack preferred)
+- Wrapping up my final year in IT at University of Jaffna (Vavuniya Campus)
+- Building real-world software used by students and clients
+- Exploring backend, UI engineering, automation, and deployment
+- Seeking software engineering internships to grow in a team environment
 
 ---
 
 ## 🛠 Tech Toolbox
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,java,spring,mysql,mongodb,postgres,firebase,tailwind,git,vite"/>
 </div>
 
 ---
 
-## 🌍 Projects
+## 🌍 Featured Projects
 
-```ts
-🔸 Exam Entry System
-  URL: https://see.vau.ac.lk
-  ➤ Multi-role academic workflow app
-  ➤ Stack: Next.js, Node.js, MySQL, Tailwind, PDF tools
+<div align="center">
 
-🔸 Gem Lab Website (FGL)
-  URL: https://fgl-beta.vercel.app
-  ➤ Certificate verification & gallery CMS
-  ➤ Stack: Next.js, PostgreSQL, AWS S3
+  <img src="https://user-images.githubusercontent.com/placeholder/card-glass.png" width="100%" alt="Glass Card Placeholder"/>
 
-🔸 Leo Club Website
-  URL: https://uovleos.com
-  ➤ Timeline events, club activities & updates
-  ➤ Stack: React (Vite), Tailwind CSS
-```
+  <div align="left">
+    <h3>System for Exam Entry (SEE) — <a href="https://see.vau.ac.lk">Live</a> | <a href="https://github.com/jallu-dev/exam_entry_v_2.0">Code</a></h3>
+    <p><em>Group + Individual Project</em></p>
+    <ul>
+      <li>Multi-role academic workflow system</li>
+      <li>Built with Next.js, Node.js, MySQL, PDF tools</li>
+    </ul>
+  </div>
+  <br/>
+
+  <div align="left">
+    <h3>Finest Gem Lab Website (FGL) — <a href="https://fgl-beta.vercel.app">Live</a> | <a href="https://github.com/jallu-dev/FGL">Code</a></h3>
+    <p><em>Individual Project</em></p>
+    <ul>
+      <li>Client-side certificate verification + admin CMS</li>
+      <li>Stack: Next.js, PostgreSQL, AWS S3</li>
+    </ul>
+  </div>
+  <br/>
+
+  <div align="left">
+    <h3>Leo Club Website — <a href="https://uovleos.com">Live</a> | <a href="https://github.com/jallu-dev/uovleo">Code</a></h3>
+    <p><em>Individual Project</em></p>
+    <ul>
+      <li>Public-facing timeline & activity showcase</li>
+      <li>Built with React (Vite), Tailwind CSS</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
@@ -76,7 +89,7 @@ const zahran = {
 
 ---
 
-## 📬 Contact Me
+## 📨 Contact Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/zahran-liyasdeen">
