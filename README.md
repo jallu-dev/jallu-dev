@@ -16,6 +16,7 @@
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
     border: 1px solid rgba(255, 255, 255, 0.3);
     text-align: center;
+    overflow: hidden;
   ">
     <img src="https://avatars.githubusercontent.com/u/72025176?v=4" alt="Zahran Liyasdeen Avatar" width="96" height="96" style="border-radius: 50%; margin-bottom: 1rem; border: 2px solid rgba(255,255,255,0.2);">
     <h3 style="margin: 0.5rem 0; color: #0D1117;">Zahran Liyasdeen</h3>
