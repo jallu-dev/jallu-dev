@@ -1,7 +1,8 @@
 <div align="center">
-  <picture>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&duration=3000&pause=1200&center=true&vCenter=true&width=800&height=100&lines=-+Zahran+Liyasdeen+-;-+Full-Stack+Developer+-;-+Software+Engineering+Intern+-&color=F9f9f9&background=00000000" alt="Typing SVG" />
-  </picture>
+  <h1 style="font-size: 3em;">Zahran Liyasdeen</h1>
+</div>
+<div align="center">
+    ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2D9BF7&center=true&vCenter=true&width=435&lines=Software+Engineer+Intern)
 </div>
 
 
