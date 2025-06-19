@@ -82,8 +82,6 @@
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white&labelColor=161B22&color=21262D"/>
   </div>
 </div>
-
-  </div>
   
 <div style="background: linear-gradient(135deg, rgba(33, 38, 45, 0.8) 0%, rgba(13, 17, 23, 0.9) 100%); backdrop-filter: blur(16px); border: 1px solid rgba(248, 81, 73, 0.3); border-radius: 20px; padding: 2rem; margin: 2rem auto; max-width: 600px; box-shadow: 0 8px 32px rgba(248, 81, 73, 0.1), inset 0 1px 0 rgba(255, 255, 255, 0.1);">
   <h4 style="color: #F85149; margin-bottom: 1.5rem; text-align: center;">🗄️ Database & Cloud</h4>
@@ -98,7 +96,21 @@
   </div>
 </div>
 
+<div style="background: linear-gradient(135deg, rgba(33, 38, 45, 0.8) 0%, rgba(13, 17, 23, 0.9) 100%); backdrop-filter: blur(16px); border: 1px solid rgba(130, 170, 255, 0.3); border-radius: 20px; padding: 2rem; margin: 2rem auto; max-width: 600px; box-shadow: 0 8px 32px rgba(130, 170, 255, 0.1), inset 0 1px 0 rgba(255, 255, 255, 0.1);">
+  <h4 style="color: #82AAFF; margin-bottom: 1.5rem; text-align: center;">🛠️ Tools & Technologies</h4>
+  <div style="text-align: center; margin: 1rem 0;">
+    <img src="https://skillicons.dev/icons?i=git,docker,vscode&theme=dark" alt="Tools & Technologies" />
+  </div>
+  <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center;">
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=161B22&color=21262D"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=161B22&color=21262D"/>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white&labelColor=161B22&color=21262D"/>
+  </div>
 </div>
+
+  </div>
+</div>
+
 
 <div align="center" style="margin: 3rem 0;">
   <div style="width: 80%; height: 2px; background: linear-gradient(90deg, transparent 0%, rgba(88, 166, 255, 0.6) 20%, rgba(35, 134, 54, 0.6) 50%, rgba(248, 81, 73, 0.6) 80%, transparent 100%); margin: 0 auto;"></div>
@@ -191,35 +203,45 @@
 
 ## 🏆 Achievements
 
-<div style="background: linear-gradient(135deg, rgba(33, 38, 45, 0.7) 0%, rgba(13, 17, 23, 0.8) 100%); backdrop-filter: blur(20px); border: 1px solid rgba(139, 148, 158, 0.2); border-radius: 20px; padding: 2.5rem; margin: 2rem 0; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3), inset 0 1px 0 rgba(255, 255, 255, 0.1);">
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 2rem;">
-    
-<div style="text-align: center; background: linear-gradient(135deg, rgba(248, 81, 73, 0.1) 0%, rgba(248, 81, 73, 0.05) 100%); border: 1px solid rgba(248, 81, 73, 0.2); border-radius: 16px; padding: 1.5rem;">
-  <h3 style="color: #F85149; margin: 0.5rem 0; font-size: 2rem;">🥇</h3>
-  <h4 style="color: #58A6FF; margin: 0.5rem 0;">Winner</h4>
-  <p style="color: #8B949E; font-size: 0.9em; margin: 0;">Codezpark v.6.0 Hackathon<br><em>University of Vavuniya</em></p>
+<div style="background: linear-gradient(135deg, rgba(33, 38, 45, 0.8), rgba(13, 17, 23, 0.9)); border: 1px solid rgba(88, 166, 255, 0.3); border-radius: 20px; padding: 2rem; margin: 2rem 0; backdrop-filter: blur(16px); box-shadow: 0 8px 32px rgba(88, 166, 255, 0.1);">
+
+  <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; justify-content: center;">
+    <div style="background: rgba(88, 166, 255, 0.08); border: 1px solid rgba(88, 166, 255, 0.3); border-radius: 16px; padding: 1.5rem; width: 260px; text-align: center;">
+      <h2 style="font-size: 2rem;">🥇</h2>
+      <h3 style="color: #58A6FF;">Winner</h3>
+      <p style="color: #8B949E; font-size: 0.95em;">Codezpark v6.0 Hackathon<br><em>University of Vavuniya</em></p>
+    </div>
+  </div>
 </div>
 
-<div style="text-align: center; background: linear-gradient(135deg, rgba(88, 166, 255, 0.1) 0%, rgba(88, 166, 255, 0.05) 100%); border: 1px solid rgba(88, 166, 255, 0.2); border-radius: 16px; padding: 1.5rem;">
-  <h3 style="color: #58A6FF; margin: 0.5rem 0; font-size: 2rem;">🎓</h3>
-  <h4 style="color: #238636; margin: 0.5rem 0;">CS50</h4>
-  <p style="color: #8B949E; font-size: 0.9em; margin: 0;">Computer Science<br><em>Harvard University</em></p>
-</div>
+## 📜 Certifications
 
-<div style="text-align: center; background: linear-gradient(135deg, rgba(35, 134, 54, 0.1) 0%, rgba(35, 134, 54, 0.05) 100%); border: 1px solid rgba(35, 134, 54, 0.2); border-radius: 16px; padding: 1.5rem;">
-  <h3 style="color: #238636; margin: 0.5rem 0; font-size: 2rem;">💻</h3>
-  <h4 style="color: #F85149; margin: 0.5rem 0;">Frontend Dev</h4>
-  <p style="color: #8B949E; font-size: 0.9em; margin: 0;">Certification<br><em>University of Moratuwa</em></p>
-</div>
+<div style="background: linear-gradient(135deg, rgba(33, 38, 45, 0.8), rgba(13, 17, 23, 0.9)); border: 1px solid rgba(35, 134, 54, 0.3); border-radius: 20px; padding: 2rem; margin: 2rem 0; backdrop-filter: blur(16px); box-shadow: 0 8px 32px rgba(35, 134, 54, 0.1);">
 
-<div style="text-align: center; background: linear-gradient(135deg, rgba(139, 148, 158, 0.1) 0%, rgba(139, 148, 158, 0.05) 100%); border: 1px solid rgba(139, 148, 158, 0.2); border-radius: 16px; padding: 1.5rem;">
-  <h3 style="color: #8B949E; margin: 0.5rem 0; font-size: 2rem;">🍃</h3>
-  <h4 style="color: #58A6FF; margin: 0.5rem 0;">MongoDB</h4>
-  <p style="color: #8B949E; font-size: 0.9em; margin: 0;">Node.js Developer Path<br><em>MongoDB University</em></p>
-</div>
+  <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; justify-content: center;">
+
+  <div style="background: rgba(35, 134, 54, 0.08); border: 1px solid rgba(35, 134, 54, 0.3); border-radius: 16px; padding: 1.5rem; width: 260px; text-align: center;">
+      <h2 style="font-size: 2rem;">🎓</h2>
+      <h3 style="color: #58A6FF;">CS50</h3>
+      <p style="color: #8B949E; font-size: 0.95em;">Introduction to Computer Science<br><em>Harvard University</em></p>
+    </div>
+  
+  <div style="background: rgba(248, 81, 73, 0.08); border: 1px solid rgba(248, 81, 73, 0.3); border-radius: 16px; padding: 1.5rem; width: 260px; text-align: center;">
+      <h2 style="font-size: 2rem;">💻</h2>
+      <h3 style="color: #F85149;">Frontend Dev</h3>
+      <p style="color: #8B949E; font-size: 0.95em;">Certification<br><em>University of Moratuwa</em></p>
+    </div>
+
+  <div style="background: rgba(139, 148, 158, 0.08); border: 1px solid rgba(139, 148, 158, 0.3); border-radius: 16px; padding: 1.5rem; width: 260px; text-align: center;">
+      <h2 style="font-size: 2rem;">🍃</h2>
+      <h3 style="color: #8B949E;">MongoDB</h3>
+      <p style="color: #8B949E; font-size: 0.95em;">Node.js Developer Path<br><em>MongoDB University</em></p>
+    </div>
 
   </div>
 </div>
+
+
 
 <div align="center" style="margin: 3rem 0;">
   <div style="width: 80%; height: 2px; background: linear-gradient(90deg, transparent 0%, rgba(88, 166, 255, 0.6) 20%, rgba(35, 134, 54, 0.6) 50%, rgba(248, 81, 73, 0.6) 80%, transparent 100%); margin: 0 auto;"></div>
